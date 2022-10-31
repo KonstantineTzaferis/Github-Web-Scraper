@@ -18,3 +18,5 @@ This project can be migrated to other sites as well, by using the same thinking 
 
 ## Warnings
  :warning: Always Scrape Websites that allow scraping.
+ 
+ :warning: The file type is .ipynb
